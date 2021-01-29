@@ -1,0 +1,10 @@
+Einstein 27000
+Curie 50000
+Newton 15490
+Darwin 42300
+Tesla 242000
+Galilei 12300
+Pythagoras 19900
+Linnaeus 53500
+Asimov 37850
+Lamarck 23600
